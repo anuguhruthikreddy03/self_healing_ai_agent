@@ -1,4 +1,4 @@
-# 🧠 Self-Healing AI Agent
+# 🧠 Self-Healing AI Agents
 
 An AI-powered autonomous debugging and recovery system that can analyze errors, identify root causes, generate fixes, validate solutions, and execute recovery actions automatically using Large Language Models (LLMs).
 
