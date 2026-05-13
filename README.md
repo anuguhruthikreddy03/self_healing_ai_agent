@@ -78,17 +78,10 @@ or
 
 ```bash
 uvicorn api.main:app --reload
+
+run fontend/app.py
 ```
 
----
-
-# 📡 Sample API Request
-
-```json
-{
-  "error": "ModuleNotFoundError: No module named numpy"
-}
-```
 
 ---
 
